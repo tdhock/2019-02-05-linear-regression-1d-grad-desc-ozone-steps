@@ -1,0 +1,23 @@
+colour	fill	x	y	key	showSelectedlegendcolour	showSelectedlegendfill	showSelected1	PANEL
+#FC8D62	#FFFFFF	30	0.480288915267674	validation	validation	min cost	2e-04	1
+#66C2A5	#FFFFFF	30	0.297069946934586	train	train	min cost	2e-04	1
+#FC8D62	#FFFFFF	30	0.446133196632852	validation	validation	min cost	3e-04	1
+#66C2A5	#FFFFFF	30	0.267229658544053	train	train	min cost	3e-04	1
+#FC8D62	#FFFFFF	30	0.385964400513551	validation	validation	min cost	6e-04	1
+#66C2A5	#FFFFFF	30	0.222133698149096	train	train	min cost	6e-04	1
+#FC8D62	#FFFFFF	30	0.352610175998368	validation	validation	min cost	0.001	1
+#66C2A5	#FFFFFF	30	0.204873427019138	train	train	min cost	0.001	1
+#FC8D62	#FFFFFF	30	0.332835179203676	validation	validation	min cost	0.0018	1
+#66C2A5	#FFFFFF	30	0.200071368876504	train	train	min cost	0.0018	1
+#FC8D62	#FFFFFF	30	0.327426430363637	validation	validation	min cost	0.0032	1
+#66C2A5	#FFFFFF	30	0.19981489143286	train	train	min cost	0.0032	1
+#FC8D62	#FFFFFF	30	0.326926152112052	validation	validation	min cost	0.0056	1
+#66C2A5	#FFFFFF	30	0.199813376146051	train	train	min cost	0.0056	1
+#FC8D62	#FFFFFF	30	0.326920771332148	validation	validation	min cost	0.01	1
+#66C2A5	#FFFFFF	30	0.199813375975851	train	train	min cost	0.01	1
+#FC8D62	#FFFFFF	4	0.3268816287779	validation	validation	min cost	0.0178	1
+#66C2A5	#FFFFFF	15	0.199813375975851	train	train	min cost	0.0178	1
+#FC8D62	#FFFFFF	2	0.388956935700039	validation	validation	min cost	0.0316	1
+#66C2A5	#FFFFFF	2	0.399690085597828	train	train	min cost	0.0316	1
+#FC8D62	#FFFFFF	1	0.515	validation	validation	min cost	0.0562	1
+#66C2A5	#FFFFFF	1	0.401514137336191	train	train	min cost	0.0562	1
